@@ -1,9 +1,9 @@
-<img align="center" alt="Coding" width="1000" src="http://myfbcovers.com/uploads/covers/2012/06/10/fce5b6b09543012f85b90025902480d2/watermarked_cover.jpg">
+<img align="center" alt="Coding" width="1000" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2f7c9d8-a913-4273-847f-705be41395df/d9czgei-ea86003f-f2ad-4889-81ad-4a4859809fd9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyZjdjOWQ4LWE5MTMtNDI3My04NDdmLTcwNWJlNDEzOTVkZlwvZDljemdlaS1lYTg2MDAzZi1mMmFkLTQ4ODktODFhZC00YTQ4NTk4MDlmZDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FX3r9678AXHxAI7Szv-1CrQynlb-OGCjvt2TvgdZuzo">
 
-<h1 align="center">Hi 👋, I'm Ryan Ur Rafi</h1>
+<h1 align="center">Greetings, I'm Ryan Ur Rafi</h1>
 <h3 align="center">An undergraduate student of CSE Department</h3>
 
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/8468d3e0525345866b0f88e0d2e65f5b/f7f97c4afa60e4b8-16/s500x750/fa68efd86338a4e9bd333e93062122764c666604.gifv">
+<img align="right" alt="Coding" width="400" height="400" src="https://steamuserimages-a.akamaihd.net/ugc/91595223138762220/51AB890556144E8193F9CAEA35DD4FB4CE376160/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=def4lt-303&label=Profile%20views&color=0e75b6&style=flat" alt="def4lt-303" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 Reach me through: **ryanrafi72@gmail.com**
 
-- ⚡ Fun fact: **I live inside 127.0.0.1**
+- ⚡ Fun fact: **I am trapped in 127.0.0.1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
