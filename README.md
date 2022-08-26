@@ -1,4 +1,5 @@
-<img align="center" alt="Coding" width="850" height='300' src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2f7c9d8-a913-4273-847f-705be41395df/d9czgei-ea86003f-f2ad-4889-81ad-4a4859809fd9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyZjdjOWQ4LWE5MTMtNDI3My04NDdmLTcwNWJlNDEzOTVkZlwvZDljemdlaS1lYTg2MDAzZi1mMmFkLTQ4ODktODFhZC00YTQ4NTk4MDlmZDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FX3r9678AXHxAI7Szv-1CrQynlb-OGCjvt2TvgdZuzo">
+<img align="center" alt="Coding" width="850" height='300' src="https://user-images.githubusercontent.com/28063426/186977443-843ee608-5931-43b1-a95c-e9d63e677b2b.gif">
+
 
 <h1 align="center">Greetings, I'm Ryan Ur Rafi</h1>
 <h3 align="center">An undergraduate student of CSE Department</h3>
