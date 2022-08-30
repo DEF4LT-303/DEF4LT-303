@@ -4,7 +4,7 @@
 <h1 align="center">Greetings, I'm Ryan Ur Rafi</h1>
 <h3 align="center">An undergraduate student of CSE Department</h3>
 
-<img align="right" alt="Coding" width="300" height='300' src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2f7c9d8-a913-4273-847f-705be41395df/d834vms-b15483a1-7c90-4347-9c0b-23371e44c1d4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyZjdjOWQ4LWE5MTMtNDI3My04NDdmLTcwNWJlNDEzOTVkZlwvZDgzNHZtcy1iMTU0ODNhMS03YzkwLTQzNDctOWMwYi0yMzM3MWU0NGMxZDQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0i1D6tymqaEBTS1zcIi0i7cEZB907k0JGpRRYBRAoDY">
+<img align="right" alt="Coding" width="200" height='200' src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2f7c9d8-a913-4273-847f-705be41395df/d834vms-b15483a1-7c90-4347-9c0b-23371e44c1d4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyZjdjOWQ4LWE5MTMtNDI3My04NDdmLTcwNWJlNDEzOTVkZlwvZDgzNHZtcy1iMTU0ODNhMS03YzkwLTQzNDctOWMwYi0yMzM3MWU0NGMxZDQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0i1D6tymqaEBTS1zcIi0i7cEZB907k0JGpRRYBRAoDY">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=def4lt-303&label=Profile%20views&color=0e75b6&style=flat" alt="def4lt-303" /> </p> -->
 
@@ -16,9 +16,9 @@
 
 - ⚡ Fun fact: **I am trapped in 127.0.0.1**
 
-<h2 align="center">Current Knowledge</h2>
+<h2 align="left">Current Knowledge</h2>
 
-**NOTE:** Below is a list of things I've used in atleast one of my projects/work or learned at some point in my life. It doesn't mean I know everything about them but I do have first hand experience and is comfortable using them.
+These are the list of things that I am familiar with. It does not mean that I am fluent in all of them but I am comfortable with most of them.
 
 <!--START_SECTION:learn-->
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
