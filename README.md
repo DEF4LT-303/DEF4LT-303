@@ -16,16 +16,71 @@
 
 - ⚡ Fun fact: **I am trapped in 127.0.0.1**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ryan-rafi-061301158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan rafi" height="30" width="40" /></a>
-<a href="https://www.facebook.com/OV3RCL0CK/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ryan rafi" height="30" width="40" /></a>
-<a href="https://instagram.com/tat._.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tat._.0" height="30" width="40" /></a>
+<h2 align="center">Current Knowledge</h2>
+
+**NOTE:** Below is a list of things I've used in atleast one of my projects/work or learned at some point in my life. It doesn't mean I know everything about them but I do have first hand experience and is comfortable using them.
+
+<!--START_SECTION:learn-->
+<h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
+<span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></span>
+<span><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql"/></span>
+
+<hr>
+<h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/></h3>
+
+<span><img src="https://img.shields.io/badge/Express.js-239120?style=for-the-badge&logo=express&logoColor=white" alt="Express JS"/></span>
+
+<hr>
+<h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
+
+<span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/></span>
+<span><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></span>
+<span><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></span>
+<span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></span>
+<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></span>
+<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></span>
+<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></span>
+<span><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></span>
+
+<hr>
+<h3><img height="20px" src="https://img.shields.io/badge/Library-505558"/></h3>
+
+<span><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/></span>
+
+<hr>
+<h3><img height="20px" src="https://img.shields.io/badge/Platform-487088"/></h3>
+
+<span><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/></span>
+<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></span>
+
+<hr>
+<h3><img height="20px" src="https://img.shields.io/badge/Tool-6c598f"/></h3>
+
+<span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></span>
+<span><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/></span>
+<span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/></span>
+<hr>
+<!--END_SECTION:learn-->
+
+<h3 align="center"> Connect with Me at </h3>
+
+<p align="center">
+<a href="mailto:ryanrafi72@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-ryanrafi72@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Tato | タト%235081-7289da?style=flat&logo=discord"></a>
+<a href="https://www.linkedin.com/in/ryan-rafi-061301158"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ryan Rafi-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.facebook.com/OV3RCL0CK/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Ryan Rafi-blue?style=flat&logo=facebook"></a>
+<a href="https://instagram.com/tat._.0"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Ryan タト-f2003c?style=flat&logo=instagram"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://tryhackme.com/p/DEF4LT" target="_blank"> <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/DEF4LT.png" alt="TryHackMe"></a></p>
-
-<p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=def4lt-303&" alt="def4lt-303" /> <br>
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=def4lt-303&show_icons=true&theme=dark" alt="def4lt-303" /></p>
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Streaks</th>
+     </tr>
+      <tr>
+       <td><img alt="DEF4LT-303 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=def4lt-303&show_icons=true&theme=dark"> </td>
+       <td><img alt="DEF4LT-303 :: Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=def4lt-303&"> </td>
+     </tr>
+   </table>
+</p>
