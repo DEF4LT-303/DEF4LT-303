@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on: **Bug Ticket Tracker Project and a Discord Bot**
 
-- 🌱 I’m currently learning: **Node.js, MySQL, Express and about life**
+- 🌱 I’m currently learning: **Node.js, Express, React, Flutter...**
 
 - 📫 Reach me through: **ryanrafi72@gmail.com**
 
