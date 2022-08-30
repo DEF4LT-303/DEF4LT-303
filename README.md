@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="850" height='300' src="https://user-images.githubusercontent.com/28063426/186977443-843ee608-5931-43b1-a95c-e9d63e677b2b.gif">
+<!-- <img align="center" alt="Coding" width="850" height='300' src="https://user-images.githubusercontent.com/28063426/186977443-843ee608-5931-43b1-a95c-e9d63e677b2b.gif"> -->
 
 
 <h1 align="center">Greetings, I'm Ryan Ur Rafi</h1>
