@@ -61,6 +61,10 @@ These are the list of things that I am familiar with. It does not mean that I am
 <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/></span>
 <span><img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="Virtual Box"/></span>
 <hr>
+
+<h3><img height="20px" src="https://img.shields.io/badge/OS-4DAF1C"/></h3>
+<span><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></span>
+<span><img src="https://img.shields.io/badge/Kali_Linux-1C44AF?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/></span>
 <!--END_SECTION:learn-->
 
 <h3 align="center"> Connect with Me at </h3>
