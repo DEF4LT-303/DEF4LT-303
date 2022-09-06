@@ -72,13 +72,16 @@ These are the list of things that I am familiar with. It does not mean that I am
 <a href="https://www.facebook.com/OV3RCL0CK/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Ryan Rafi-blue?style=flat&logo=facebook"></a>
 <a href="https://instagram.com/tat._.0"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Ryan タト-f2003c?style=flat&logo=instagram"></a>
 </p>
+<hr>
 
 <!-- Badges -->
+<h3 align="center"> Badges </h3>
 <div align="center">
   <a href="https://tryhackme.com/p/DEF4LT">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/DEF4LT.png" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/DEF4LT.png?5" alt="TryHackMe">
   </a>
 </div>
+
 
 <p align="center">
    <table>
