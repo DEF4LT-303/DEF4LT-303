@@ -73,6 +73,12 @@ These are the list of things that I am familiar with. It does not mean that I am
 <a href="https://instagram.com/tat._.0"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Ryan タト-f2003c?style=flat&logo=instagram"></a>
 </p>
 
+<div align="center">
+  <a href="https://tryhackme.com/p/devorein">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/DEF4LT.png" alt="TryHackMe">
+  </a>
+</div>
+
 <p align="center">
    <table>
       <tr>
