@@ -63,8 +63,9 @@ These are the list of things that I am familiar with. It does not mean that I am
 <hr>
 
 <h3><img height="20px" src="https://img.shields.io/badge/OS-4DAF1C"/></h3>
+
 <span><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></span>
-<span><img src="https://img.shields.io/badge/Kali_Linux-1C44AF?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/></span>
+<span><img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kali-linux&logoColor=blue" alt="Kali"/></span>
 <!--END_SECTION:learn-->
 
 <h3 align="center"> Connect with Me at </h3>
