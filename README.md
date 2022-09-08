@@ -10,6 +10,8 @@
 
 - 🔭 I’m currently working on: **Bug Ticket Tracker Project and a Discord Bot**
 
+- 🍀 I’m interested in: **Cybersecurity (CTFs), Web Development, Game Development, Bot Development, AI/ML...**
+
 - 🌱 I’m currently learning: **Node.js, Express, React, Flutter...**
 
 - 📫 Reach me through: **ryanrafi72@gmail.com**
