@@ -20,7 +20,7 @@
 
 <h2 align="left">Current Knowledge</h2>
 
-These are the list of things that I am familiar with. It does not mean that I am fluent in all of them but I am comfortable with most of them.
+These are the list of things that I am familiar with. It does not mean that I am fluent in all of them but I am comfortable implementing and working with them.
 
 <!--START_SECTION:learn-->
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
