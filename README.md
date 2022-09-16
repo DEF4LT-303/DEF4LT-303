@@ -93,7 +93,7 @@ These are the list of things that I am familiar with. It does not mean that I am
    <table>
       <tr>
        <th>Profile stats  </th>
-       <th>Streaks</th>
+       <th>Languages</th>
      </tr>
       <tr>
        <td><img alt="DEF4LT-303 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=def4lt-303&show_icons=true&theme=dark"> </td>
