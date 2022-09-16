@@ -97,7 +97,7 @@ These are the list of things that I am familiar with. It does not mean that I am
      </tr>
       <tr>
        <td><img alt="DEF4LT-303 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=def4lt-303&show_icons=true&theme=dark"> </td>
-       <td><img alt="DEF4LT-303 :: Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=def4lt-303&"> </td>
+       <td><img alt="DEF4LT-303 :: Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=def4lt-303&layout=compact"> </td>
      </tr>
    </table>
 </p>
