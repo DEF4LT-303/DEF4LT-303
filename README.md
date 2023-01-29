@@ -12,7 +12,7 @@
 
 - 🍀 I’m interested in: **Cybersecurity (CTFs), Web Development, Game Development, Bot Development, Image Processing**
 
-- 🌱 I’m currently learning: **Node.js, Express, React...**
+- 🌱 I’m currently learning: **Node.js, Express, React, Image Processing...**
 
 - 📫 Reach me through: **ryanrafi72@gmail.com**
 
