@@ -48,6 +48,7 @@ These are the list of things that I am familiar with. It does not mean that I am
 
 <span><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/></span>
 <span><img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" alt="OpenGL"/></span>
+<span><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></span>
 
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Platform-487088"/></h3>
