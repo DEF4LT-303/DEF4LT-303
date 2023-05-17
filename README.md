@@ -8,7 +8,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=def4lt-303&label=Profile%20views&color=0e75b6&style=flat" alt="def4lt-303" /> </p> -->
 
-- 🔭 I’m currently working on: **Bug Ticket Tracker Project and a Discord Bot**
+- 🔭 I’m currently working on: **A Fullstack MERN website and maintaining Discord Bots**
 
 - 🍀 I’m interested in: **Cybersecurity (CTFs), Web Development, Game Development, Bot Development, Image Processing, ML/AI**
 
