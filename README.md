@@ -60,6 +60,8 @@ These are the list of things that I am familiar with. It does not mean that I am
 
 <span><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></span>
+<span><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></span>
+<span><img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"/></span>
 
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Tool-6c598f"/></h3>
