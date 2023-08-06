@@ -83,7 +83,7 @@ These are the list of things that I am familiar with. It does not mean that I am
 
 <p align="center">
 <a href="mailto:ryanrafi72@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-ryanrafi72@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Tato | タト%235081-7289da?style=flat&logo=discord"></a>
+<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://discord.com/users/305681776427139073"></a>
 <a href="https://www.linkedin.com/in/ryan-rafi-061301158"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ryan Rafi-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.facebook.com/OV3RCL0CK/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Ryan Rafi-blue?style=flat&logo=facebook"></a>
 <a href="https://instagram.com/tat._.0"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Ryan タト-f2003c?style=flat&logo=instagram"></a>
