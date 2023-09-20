@@ -54,6 +54,7 @@ These are the list of things that I am familiar with. It does not mean that I am
 <span><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/></span>
 <span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/></span>
 <span><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="React"/></span>
+<span><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="React"/></span>
 
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Platform-487088"/></h3>
