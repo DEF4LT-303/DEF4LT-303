@@ -31,6 +31,7 @@ These are the list of things that I am familiar with. It does not mean that I am
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/></h3>
 
 <span><img src="https://img.shields.io/badge/Express.js-239120?style=for-the-badge&logo=express&logoColor=white" alt="Express JS"/></span>
+<span><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/></span>
 
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
