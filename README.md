@@ -114,8 +114,8 @@ These are the list of things that I am familiar with. It does not mean that I am
      </tr>
       <tr>
 <!--        <td><img alt="DEF4LT-303 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=def4lt-303&show_icons=true&theme=dark"> </td> -->
-        <td><img alt="DEF4LT-303 :: Profile Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=def4lt-303&theme=nord_dark"> </td>
-       <td><img alt="DEF4LT-303 :: Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=def4lt-303&layout=compact"> </td>
+        <td><img alt="DEF4LT-303 :: Profile Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=def4lt-303&theme=github_dark&exclude=exclude"> </td>
+       <td><img alt="DEF4LT-303 :: Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=def4lt-303&theme=github_dark&exclude=exclude"> </td>
      </tr>
    </table>
 </p>
