@@ -26,6 +26,7 @@ These are the list of things that I am familiar with. It does not mean that I am
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
 <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></span>
 <span><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql"/></span>
+<span><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/></span>
 
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/></h3>
