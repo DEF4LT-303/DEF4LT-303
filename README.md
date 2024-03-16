@@ -126,7 +126,9 @@ I possess a comfortable level of familiarity with the following technologies. Wh
     </td>
     <td>
       <h2>Leetcode</h2>
+      <a href="https://leetcode.com/ryanrafi72/">
       <img src="https://leetcard.jacoblin.cool/ryanrafi72" alt="Leetcode">
+      </a>
     </td>
   </tr>
    </table>
