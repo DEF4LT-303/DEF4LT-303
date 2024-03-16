@@ -102,26 +102,32 @@ I possess a comfortable level of familiarity with the following technologies. Wh
 
 <!-- Badges -->
 <h3 align="center"> Statistics </h3>
-<div align="center">
-<!--   <a href="https://tryhackme.com/p/DEF4LT">
+<!-- <div align="center">
+  <a href="https://tryhackme.com/p/DEF4LT">
     <img src="https://tryhackme-badges.s3.amazonaws.com/DEF4LT.png?5" alt="TryHackMe">
   </a> -->
-  <a href="https://leetcode.com/ryanrafi72">
+<!--   <a href="https://leetcode.com/ryanrafi72">
     <img src="https://leetcard.jacoblin.cool/ryanrafi72" alt="Leetcode">
   </a>
-</div>
+</div> -->
 
 
-<p align="center">
+<div align="center">
    <table>
       <tr>
-       <th>Profile stats  </th>
-       <th>Languages</th>
-     </tr>
-      <tr>
-<!--        <td><img alt="DEF4LT-303 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=def4lt-303&show_icons=true&theme=dark"> </td> -->
-        <td><img alt="DEF4LT-303 :: Profile Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=def4lt-303&theme=github_dark&exclude=exclude"> </td>
-       <td><img alt="DEF4LT-303 :: Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=def4lt-303&theme=github_dark&exclude=exclude"> </td>
-     </tr>
+        <td colspan='2'>
+            <h2 align="center">Profile Stats</h2>
+            <img alt="DEF4LT-303 :: Profile Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=def4lt-303&theme=github_dark&exclude=exclude" style="width: 100%;">
+        </td>
+     <tr>
+    <td>
+      <h2>Languages</h2>
+      <img alt="DEF4LT-303 :: Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=def4lt-303&theme=github_dark&exclude=exclude">
+    </td>
+    <td>
+      <h2>Leetcode</h2>
+      <img src="https://leetcard.jacoblin.cool/ryanrafi72" alt="Leetcode">
+    </td>
+  </tr>
    </table>
-</p>
+</div>
