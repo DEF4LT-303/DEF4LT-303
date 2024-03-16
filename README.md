@@ -101,10 +101,13 @@ I possess a comfortable level of familiarity with the following technologies. Wh
 <hr>
 
 <!-- Badges -->
-<h3 align="center"> Badges </h3>
+<h3 align="center"> Statistics </h3>
 <div align="center">
-  <a href="https://tryhackme.com/p/DEF4LT">
+<!--   <a href="https://tryhackme.com/p/DEF4LT">
     <img src="https://tryhackme-badges.s3.amazonaws.com/DEF4LT.png?5" alt="TryHackMe">
+  </a> -->
+  <a href="https://leetcode.com/ryanrafi72">
+    <img src="https://leetcard.jacoblin.cool/ryanrafi72" alt="Leetcode">
   </a>
 </div>
 
