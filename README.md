@@ -34,6 +34,7 @@ I possess a comfortable level of familiarity with the following technologies. Wh
 <span><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></span>
 <span><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/></span>
 <span><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"/></span>
+<span><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></span>
 
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
