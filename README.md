@@ -86,6 +86,7 @@ I possess a comfortable level of familiarity with the following technologies. Wh
 
 <span><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></span>
 <span><img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kali-linux&logoColor=blue" alt="Kali"/></span>
+<span><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/></span>
 <hr>
 <!--END_SECTION:learn-->
 
