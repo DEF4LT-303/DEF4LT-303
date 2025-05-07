@@ -11,7 +11,7 @@
 
 - 🍀 I’m interested in: **Cybersecurity (CTFs), Web Development, Game Development, Bot Development, Image Processing, ML/AI**
 
-- 🌱 I’m currently learning: **NEXT.js, Typescript, Tailwind, Prisma and more...**
+- 🌱 I’m currently learning: **NestJS, TypeORM and many more...**
 
 - 📫 Reach me through: **ryanrafi72@gmail.com**
 
