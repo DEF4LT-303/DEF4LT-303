@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Greetings, I'm Ryan Ur Rafi</h1>
-<h3 align="center">A Trainee Software Engineer</h3>
+<h3 align="center">Associate Software QA Engineer</h3>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=def4lt-303&label=Profile%20views&color=0e75b6&style=flat" alt="def4lt-303" /> </p> -->
