@@ -17,9 +17,9 @@
 
 - ⚡ Fun fact: **I am trapped in 127.0.0.1**
 
-<h2 align="center">Current Knowledge</h2>
+<h2 align="center">Skills</h2>
 
-I possess a comfortable level of familiarity with the following technologies. While not claiming fluency in all, I have the confidence to navigate and utilize these tools effectively.
+I possess a comfortable level of familiarity with the following technologies.
 
 <!--START_SECTION:learn-->
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
