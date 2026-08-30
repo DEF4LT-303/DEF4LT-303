@@ -2,6 +2,12 @@
   <img src='https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=58a6ff&center=true&width=435&lines=Hi!+I%27m+Ryan!;Welcome+to+my+Profile!' alt='Typing SVG' />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEF4LT-303/DEF4LT-303/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DEF4LT-303/DEF4LT-303/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DEF4LT-303/DEF4LT-303/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=def4lt-303&label=Profile%20views&color=0e75b6&style=flat" alt="def4lt-303" /> </p> -->
 
 - 🔭 I’m currently working on: **[Mokushiken.com](https://mokushiken.com) - JLPT training platform (Backend) and a 2D Indie Game**
