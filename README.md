@@ -1,9 +1,6 @@
-<!-- <img align="center" alt="Coding" width="850" height='300' src="https://user-images.githubusercontent.com/28063426/186977443-843ee608-5931-43b1-a95c-e9d63e677b2b.gif"> -->
-
-
-<h1 align="center">Greetings, I'm Ryan Ur Rafi</h1>
-<h3 align="center">Associate Software QA Engineer</h3>
-
+<div align="center">
+  <img src='https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=58a6ff&center=true&width=435&lines=Hi!+I%27m+Ryan!;Welcome+to+my+Profile!' alt='Typing SVG' />
+</div>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=def4lt-303&label=Profile%20views&color=0e75b6&style=flat" alt="def4lt-303" /> </p> -->
 
